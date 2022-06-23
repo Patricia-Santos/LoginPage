@@ -9,10 +9,10 @@
   <p ><img  src="https://cdn.discordapp.com/attachments/959617161721184280/989642134825103460/Git.jpg" width="70%" alt="imagem" >
 
   <p>
-  <img  alt="Language Top"  src="https://img.shields.io/github/languages/top/Patricia-Santos/MaratonaExplorer">
-  <img  alt="Languages Count"  src="https://img.shields.io/github/languages/count/Patricia-Santos/MaratonaExplorer">
-  <img  alt="Last Commit"  src="https://img.shields.io/github/last-commit/Patricia-Santos/MaratonaExplorer">
-  <img  alt="Repo Size"  src="https://img.shields.io/github/repo-size/Patricia-Santos/MaratonaExplorer">
+  <img  alt="Language Top"  src="https://img.shields.io/github/languages/top/Patricia-Santos/LoginPage">
+  <img  alt="Languages Count"  src="https://img.shields.io/github/languages/count/Patricia-Santos/LoginPage">
+  <img  alt="Last Commit"  src="https://img.shields.io/github/last-commit/Patricia-Santos/LoginPage">
+  <img  alt="Repo Size"  src="https://img.shields.io/github/repo-size/Patricia-Santos/LoginPage">
   </p>
 
   <br> 
